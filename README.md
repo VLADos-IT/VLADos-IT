@@ -7,10 +7,10 @@
 ## Languages and Tools
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=Windows&logoColor=0089D2)
 ![VScode](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&logo=visual-studio-code)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=#00599C&logoColor=66217B)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C++)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=C0C0C0)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=#E34F26&logoColor=E44C25)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=#1572B6&logoColor=1A73BA)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05030)
 
 ## Follow Me
