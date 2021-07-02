@@ -7,7 +7,7 @@
 ## Languages and Tools
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=Windows&logoColor=0089D2)
 ![VScode](https://img.shields.io/badge/-VScode-000000?style=for-the-badge&logo=visual-studio-code)
-![Azure](https://img.shields.io/badge/-Azure-000000?style=for-the-badge&logo=Azure)
+![Azure](https://img.shields.io/badge/-Azure-000000?style=for-the-badge&logo=https://simpleicons.org/icons/microsoftazure.svg)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=C0C0C0)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3)
