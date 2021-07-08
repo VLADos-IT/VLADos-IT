@@ -18,5 +18,6 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK&logoColor=2787F5)](https://vk.com/vlados14311)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=5F47C3)](https://www.instagram.com/lutkovav_lutkov_vlados14/)
 [![Facebook](https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=4867AA)](https://www.facebook.com/vlados14311)
+[![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=Steam)](https://steamcommunity.com/profiles/76561198929027543/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VLADos-IT&show_icons=true&theme=radical)
