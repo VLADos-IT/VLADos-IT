@@ -1,11 +1,11 @@
 # About me
 👋 - Hi there! I'm VLADos-IT.
 
-👨🏻‍💻 - I'm beginner coder and designer.
+🐱‍💻 - I'm beginner coder and designer.
 
 😎 - I learning diverse skills and tools.
 
-🎶🤟 - My hobby is play on music instruments and more other. 
+🎶🪨 - My hobby is play on music instruments and more other. 
 
 👍 - Please check and subscribe this profile 😉 
 
