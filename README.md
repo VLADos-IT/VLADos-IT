@@ -14,6 +14,7 @@
 - 🖥️ More learning Computer Science
 - 🚀 And more more other
 
+
 ### 🔨 Languages and Tools:
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -26,6 +27,9 @@
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
 ![BASH](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+## 🎸🎧🎵📻:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dkaot2tcd7djiepbwt3txjuljy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## GitHub stats
 
