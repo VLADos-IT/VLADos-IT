@@ -6,13 +6,13 @@
 
 ## Pacific: student, linux user and programmer
 
-- ⚡ Playing on musical instruments
-- 👨🏻‍💻 Learning interesting tools
-- 🤖 Liked low-level engineering
-- 👾 Average linux user
-- 🧩 Minimal designer skills
-- 🖥️ More learning Computer Science
-- 🚀 And more more other
+- ⚡ Playing on musical instruments  
+- 👨🏻‍💻 Learning interesting tools  
+- 🤖 Liked low-level engineering  
+- 👾 Average linux user  
+- 🧩 Minimal designer skills  
+- 🖥️ More learning Computer Science  
+- 🚀 And more more other  
 
 ## 🔨 Languages and Tools
 
@@ -26,9 +26,9 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-000?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
-![BASH](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana&logoColor=white)
 
 ## 🎸🎧🎵📻
@@ -37,7 +37,21 @@
 
 ## GitHub stats
 
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlados-it&show_icons=true&theme=dark&hide_border=true&border_radius=12)
-![Vlad's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlados-it&layout=compact&theme=dark&hide_border=true&border_radius=12)
+<table><tr>
+<td align="center" style="padding-right:16px">
 
----
+  <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/stats-0000000.svg"
+       alt="Vlad's GitHub stats"
+       width="560"
+       style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55);">
+
+</td>
+<td align="center" style="padding-left:16px">
+
+  <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/top-langs-0000000.svg"
+       alt="Most used languages"
+       width="360"
+       style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin-top:24px;">
+
+</td>
+</tr></table>

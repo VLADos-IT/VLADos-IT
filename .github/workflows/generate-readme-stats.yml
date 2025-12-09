@@ -1,0 +1,114 @@
+name: Generate README Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * 0'
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      USERNAME: VLADos-IT
+      PORT: 3000
+      PAT_1: ${{ secrets.PAT_1 }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate stats SVGs (tokyonight)
+        run: |
+          set -e
+
+          git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git generator
+          cd generator
+          npm ci --prefer-offline --no-audit --no-fund
+
+          export NODE_ENV=production
+          nohup node express.js > ../server.log 2>&1 &
+          SERVER_PID=$!
+
+          for i in {1..40}; do
+            if curl -fsS "http://localhost:${PORT}/api" > /dev/null; then
+              break
+            fi
+            sleep 2
+          done
+
+          cd ..
+          mkdir -p assets/readme-stats
+
+          SHORT_SHA=$(echo "${GITHUB_SHA}" | cut -c1-7)
+          STATS_FILE="assets/readme-stats/stats-${SHORT_SHA}.svg"
+          TOP_LANGS_FILE="assets/readme-stats/top-langs-${SHORT_SHA}.svg"
+
+          curl -fsS "http://localhost:${PORT}/api?username=${USERNAME}&show_icons=true&theme=tokyonight" -o "${STATS_FILE}"
+          curl -fsS "http://localhost:${PORT}/api/top-langs?username=${USERNAME}&layout=compact&theme=tokyonight" -o "${TOP_LANGS_FILE}"
+
+          kill "${SERVER_PID}" || true
+
+      - name: Import GPG key
+        id: import_gpg
+        run: |
+          set -e
+          if [ -z "${{ secrets.GPG_PRIVATE_KEY || '' }}" ]; then
+            echo "fingerprint=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          printf '%s\n' "${{ secrets.GPG_PRIVATE_KEY }}" > /tmp/private.asc
+
+          if [ -n "${{ secrets.GPG_PASSPHRASE || '' }}" ]; then
+            printf '%s\n' "${{ secrets.GPG_PASSPHRASE }}" > /tmp/gpg_pass
+            gpg --batch --yes --passphrase-file /tmp/gpg_pass --pinentry-mode loopback --import /tmp/private.asc
+          else
+            gpg --batch --yes --import /tmp/private.asc
+          fi
+
+          FP=$(gpg --with-colons --list-secret-keys | awk -F: '/^fpr:/ {print $10; exit}')
+          echo "fingerprint=${FP}" >> "$GITHUB_OUTPUT"
+
+      - name: Update README
+        run: |
+          set -e
+          SHORT_SHA=$(echo "${GITHUB_SHA}" | cut -c1-7)
+          REPO="${GITHUB_REPOSITORY}"
+          BRANCH="${GITHUB_REF_NAME}"
+
+          NEW_STATS_URL="https://raw.githubusercontent.com/${REPO}/${BRANCH}/assets/readme-stats/stats-${SHORT_SHA}.svg"
+          NEW_TOP_URL="https://raw.githubusercontent.com/${REPO}/${BRANCH}/assets/readme-stats/top-langs-${SHORT_SHA}.svg"
+
+          sed -i -E "s|https://raw.githubusercontent.com/[^/]+/[^/]+/[^/]+/assets/readme-stats/stats-[a-zA-Z0-9]+\.svg|${NEW_STATS_URL}|g" README.md
+          sed -i -E "s|https://raw.githubusercontent.com/[^/]+/[^/]+/[^/]+/assets/readme-stats/top-langs-[a-zA-Z0-9]+\.svg|${NEW_TOP_URL}|g" README.md
+
+      - name: Commit and Push
+        run: |
+          set -e
+          git config user.name "${{ secrets.SIGN_COMMIT_NAME || 'VLADos-IT' }}"
+          git config user.email "${{ secrets.SIGN_COMMIT_EMAIL || 'actions@users.noreply.github.com' }}"
+
+          git add assets/readme-stats/ README.md
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          FP="${{ steps.import_gpg.outputs.fingerprint || '' }}"
+          if [ -n "$FP" ]; then
+            git config commit.gpgSign true
+            git config user.signingkey "$FP"
+            git commit -S -m "chore: update readme stats ${GITHUB_SHA::7} [skip ci]"
+          else
+            git commit -m "chore: update readme stats ${GITHUB_SHA::7} [skip ci]"
+          fi
+
+          git push
