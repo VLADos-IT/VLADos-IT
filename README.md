@@ -40,7 +40,7 @@
 <table><tr>
 <td align="center" style="padding-right:16px">
 
-  <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/stats-df8214d.svg"
+  <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/stats-1e5bf83.svg"
        alt="Vlad's GitHub stats"
        width="560"
        style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55);">
@@ -48,7 +48,7 @@
 </td>
 <td align="center" style="padding-left:16px">
 
-  <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/top-langs-df8214d.svg"
+  <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/top-langs-1e5bf83.svg"
        alt="Most used languages"
        width="360"
        style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin-top:24px;">
