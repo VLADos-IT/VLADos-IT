@@ -1,8 +1,9 @@
 # Hello, everybody 👋🏻, I'm Vlad
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VLADos14311)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlados-it/)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/962240405682921492)
+[![Mail](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:vlad@xorg.su)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlados-it/)
 
 ## Pacific: student, linux user and programmer
 
@@ -13,6 +14,12 @@
 - 🧩 Minimal designer skills  
 - 🖥️ More learning Computer Science  
 - 🚀 And more more other  
+
+<p align="left">
+  <a href="https://xorg.su">
+    <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/xorg_88x31.gif" alt="xorg.su" />
+  </a>
+</p>
 
 ## 🔨 Languages and Tools
 
