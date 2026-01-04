@@ -40,18 +40,30 @@
 
 ## 🎸🎧🎵📻
 
-[![Last.fm Obsession](http://lastfm-github-profile.vercel.app/api?user=vlados14311&mode=top&bg=transparent)](https://www.last.fm/user/VLADos-IT)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dkaot2tcd7djiepbwt3txjuljy&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://www.last.fm/user/vlados14311">
+    <img src="https://lastfm-github-profile.vercel.app/api?user=vlados14311&mode=top&bg=181818"
+         alt="Last.fm Obsession"
+         height="120"
+         style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin: 10px;">
+  </a>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dkaot2tcd7djiepbwt3txjuljy&cover_image=true&theme=spotify-embed&show_offline=true&interchange=false&mode=dark"
+         alt="spotify-github-profile"
+         height="120"
+         style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin: 10px;">
+  </a>
+</p>
 
 ## GitHub stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/stats-514c131.svg"
        alt="Vlad's GitHub stats"
-       width="560"
+       width="465"
        style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin: 10px;">
   <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/top-langs-514c131.svg"
        alt="Most used languages"
-       width="360"
+       width="353"
        style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin: 10px;">
 </p>
