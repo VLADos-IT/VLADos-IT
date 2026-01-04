@@ -40,25 +40,18 @@
 
 ## 🎸🎧🎵📻
 
+[![Last.fm Obsession](http://lastfm-github-profile.vercel.app/api?user=vlados14311&mode=top&bg=transparent)](https://www.last.fm/user/VLADos-IT)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dkaot2tcd7djiepbwt3txjuljy&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## GitHub stats
 
-<table><tr>
-<td align="center" style="padding-right:16px">
-
+<p align="center">
   <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/stats-514c131.svg"
        alt="Vlad's GitHub stats"
        width="560"
-       style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55);">
-
-</td>
-<td align="center" style="padding-left:16px">
-
+       style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin: 10px;">
   <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/top-langs-514c131.svg"
        alt="Most used languages"
        width="360"
-       style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin-top:24px;">
-
-</td>
-</tr></table>
+       style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin: 10px;">
+</p>
