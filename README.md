@@ -1,19 +1,19 @@
-# Hello, everybody 👋🏻, I'm Vlad
+# Hello everybody 👋🏻, I'm Vlad
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VLADos14311)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/962240405682921492)
 [![Mail](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:vlad@xorg.su)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlados-it/)
+[![xorg.su](https://img.shields.io/badge/xorg.su-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://xorg.su)
 
-## Pacific: student, linux user and programmer
+## Pacific: student Linux developer
 
-- ⚡ Playing on musical instruments  
-- 👨🏻‍💻 Learning interesting tools  
-- 🤖 Liked low-level engineering  
-- 👾 Average linux user  
+- ⚡ Playing musical instruments  
+- 👨🏻‍💻 Learning DevOps and infrastructure tools  
+- 🤖 Like low-level engineering  
+- 👾 Self-hosting enthusiast  
 - 🧩 Minimal designer skills  
-- 🖥️ More learning Computer Science  
-- 🚀 And more more other  
+- 🖥️ Web infrastructure  
+- 🚀 And more  
 
 <p align="left">
   <a href="https://xorg.su">
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://www.last.fm/user/vlados14311">
-    <img src="https://lastfm-github-profile.vercel.app/api?user=vlados14311&mode=top&bg=181818"
+    <img src="https://lastfm-github-profile.vercel.app/api?user=vlados14311&mode=smart&bg=181818"
          alt="Last.fm Obsession"
          height="120"
          style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin: 10px;">
@@ -55,7 +55,7 @@
   </a>
 </p>
 
-## GitHub stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/stats-f7f5190.svg"
