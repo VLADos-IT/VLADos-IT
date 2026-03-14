@@ -1,9 +1,9 @@
 # Hello everybody 👋🏻, I'm Vlad
 
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VLADos14311)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/962240405682921492)
-[![Mail](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:vlad@xorg.su)
-[![xorg.su](https://img.shields.io/badge/xorg.su-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://xorg.su)
+[![Telegram](https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram)](https://t.me/VLADos14311)
+[![Discord](https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord)](https://discordapp.com/users/962240405682921492)
+[![Mail](https://img.shields.io/badge/Mail-111?style=for-the-badge&logo=mailgun)](mailto:vlad@xorg.su)
+[![xorg.su](https://img.shields.io/badge/xorg.su-111111?style=for-the-badge&logo=firefox)](https://xorg.su)
 
 ## Pacific: student Linux developer
 
@@ -23,20 +23,20 @@
 
 ## 🔨 Languages and Tools
 
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
+![C](https://img.shields.io/badge/-C-111?style=flat-square&logo=C)
+![Python](https://img.shields.io/badge/-Python-111?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=flat-square&logo=html5)
+![Markdown](https://img.shields.io/badge/Markdown-111?style=flat-square&logo=markdown)
 
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-000?style=for-the-badge&logo=redhat&logoColor=EE0000)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-111?style=flat-square&logo=Linux)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-111?style=flat-square&logo=redhat&logoColor=EE0000)
+![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql)
 
-![Nginx](https://img.shields.io/badge/-Nginx-000?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-111?style=flat-square&logo=nginx&logoColor=009639)
+![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker)
+![Bash](https://img.shields.io/badge/Bash-111?style=flat-square&logo=gnu-bash&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-111?style=flat-square&logo=grafana)
 
 ## 🎸🎧🎵📻
 
@@ -45,13 +45,13 @@
     <img src="https://lastfm-github-profile.vercel.app/api?user=vlados14311&mode=smart&bg=181818"
          alt="Last.fm Obsession"
          height="120"
-         style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin: 10px;">
+         >
   </a>
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dkaot2tcd7djiepbwt3txjuljy&cover_image=true&theme=spotify-embed&show_offline=true&interchange=false&mode=dark"
          alt="spotify-github-profile"
          height="120"
-         style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin: 10px;">
+         >
   </a>
 </p>
 
@@ -61,9 +61,9 @@
   <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/stats-f7f5190.svg"
        alt="Vlad's GitHub stats"
        width="465"
-       style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin: 10px;">
+       >
   <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/top-langs-f7f5190.svg"
        alt="Most used languages"
        width="353"
-       style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.55); margin: 10px;">
+       >
 </p>
