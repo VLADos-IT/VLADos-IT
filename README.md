@@ -58,11 +58,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/stats-e509b3e.svg"
+  <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/stats-e39849f.svg"
        alt="Vlad's GitHub stats"
        width="465"
        >
-  <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/top-langs-e509b3e.svg"
+  <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/readme-stats/top-langs-e39849f.svg"
        alt="Most used languages"
        width="353"
        >
