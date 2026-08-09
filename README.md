@@ -34,12 +34,13 @@ student · linux & dev · self-hosting enthusiast
 ## 🎸🎧🎵📻
 
 <p align="center">
-  <a href="https://www.last.fm/user/vlados14311">
+  <a href="https://listenbrainz.org/user/vlados14311/">
     <img src="https://lastfm-github-profile.vercel.app/api?user=vlados14311&mode=recent&bg=181818&source=listenbrainz"
-         alt="Last.fm Obsession"
+         alt="ListenBrainz Recent Track"
          height="116"
          />
   </a>
+
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dkaot2tcd7djiepbwt3txjuljy&cover_image=true&theme=spotify-embed&show_offline=true&interchange=false&mode=dark"
          alt="spotify-github-profile"
