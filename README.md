@@ -7,14 +7,8 @@ student · linux & dev · self-hosting enthusiast
 [![xorg.su](https://img.shields.io/badge/xorg.su-111111?style=for-the-badge&logo=firefox)](https://xorg.su)
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=VLADos-IT&show_icons=true&hide_border=true&theme=tokyonight&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&bg_color=181825"
-       alt="Vlad's GitHub stats"
-       width="465"
-       />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=VLADos-IT&layout=compact&hide_border=true&theme=tokyonight&title_color=cba6f7&text_color=cdd6f4&bg_color=181825"
-       alt="Most used languages"
-       width="353"
-       />
+  <img src="https://github-stats-extended.vercel.app/api?username=VLADos-IT&show_icons=true&hide_border=true&hide_rank=true&theme=tokyonight&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&bg_color=181825&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Vlad's GitHub stats" width="465" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=VLADos-IT&layout=donut&hide_border=true&theme=tokyonight&title_color=cba6f7&text_color=cdd6f4&bg_color=181825&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&size_weight=0.5&count_weight=0.5" alt="Most used languages" width="433" />
 </p>
 
 <p align="left">
@@ -33,19 +27,13 @@ student · linux & dev · self-hosting enthusiast
 
 ## 🎸🎧🎵📻
 
-<p align="center">
+<p align="left">
   <a href="https://listenbrainz.org/user/vlados14311/">
-    <img src="https://lastfm-github-profile.vercel.app/api?user=vlados14311&mode=recent&bg=181818&source=listenbrainz"
-         alt="ListenBrainz Recent Track"
-         height="116"
-         />
+    <img src="https://lastfm-github-profile.vercel.app/api?user=vlados14311&mode=recent&bg=181825&source=listenbrainz" alt="ListenBrainz Recent Track" height="116" />
   </a>
-
+  &nbsp;
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dkaot2tcd7djiepbwt3txjuljy&cover_image=true&theme=spotify-embed&show_offline=true&interchange=false&mode=dark"
-         alt="spotify-github-profile"
-         height="116"
-         />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dkaot2tcd7djiepbwt3txjuljy&cover_image=true&theme=spotify-embed&show_offline=true&interchange=false&mode=dark" alt="spotify-github-profile" height="116" />
   </a>
 </p>
 
