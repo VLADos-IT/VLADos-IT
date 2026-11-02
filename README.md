@@ -1,54 +1,69 @@
-### 📦🐧🌐
-student · linux & dev · self-hosting enthusiast
+# 📦🐧🌐
 
-[![Telegram](https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram)](https://t.me/VLADos14311)
-[![Discord](https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord)](https://discordapp.com/users/962240405682921492)
-[![Mail](https://img.shields.io/badge/Mail-111?style=for-the-badge&logo=mailgun)](mailto:vlad@xorg.su)
-[![xorg.su](https://img.shields.io/badge/xorg.su-111111?style=for-the-badge&logo=firefox)](https://xorg.su)
+`student` · `linux & dev` · `self-hosting enthusiast`
+
+[![Telegram](https://img.shields.io/badge/Telegram-313244?style=for-the-badge&logo=telegram&logoColor=89dceb)](https://t.me/VLADos14311)
+[![Discord](https://img.shields.io/badge/Discord-313244?style=for-the-badge&logo=discord&logoColor=b4befe)](https://discordapp.com/users/962240405682921492)
+[![Mail](https://img.shields.io/badge/Mail-313244?style=for-the-badge&logo=mailgun&logoColor=cba6f7)](mailto:vlad@xorg.su)
+[![Website](https://img.shields.io/badge/xorg.su-313244?style=for-the-badge&logo=firefox&logoColor=fab387)](https://xorg.su)
+
+---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=VLADos-IT&show_icons=true&hide_border=true&hide_rank=true&theme=tokyonight&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&bg_color=181825&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Vlad's GitHub stats" width="465" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=VLADos-IT&layout=donut&hide_border=true&theme=tokyonight&title_color=cba6f7&text_color=cdd6f4&bg_color=181825&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&size_weight=0.5&count_weight=0.5" alt="Most used languages" width="433" />
+  <a href="https://github-stats-extended.vercel.app/api?username=VLADos-IT">
+    <img height="190" src="https://github-stats-extended.vercel.app/api?username=VLADos-IT&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&theme=tokyonight&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&bg_color=181825&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Vladislav's GitHub statistics" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=VLADos-IT">
+    <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs?username=VLADos-IT&layout=donut&hide_title=true&hide_border=true&theme=tokyonight&title_color=cba6f7&text_color=cdd6f4&bg_color=181825&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&size_weight=0.5&count_weight=0.5" alt="Most used programming languages" />
+  </a>
 </p>
 
-<p align="left">
+<p>
   <a href="https://xorg.su">
     <img src="https://raw.githubusercontent.com/VLADos-IT/VLADos-IT/main/assets/xorg_88x31.gif" alt="xorg.su" />
   </a>
 </p>
 
-`>` ⚡ Playing musical instruments  
-`>` 👨🏻‍💻 Learning DevOps and infrastructure tools  
-`>` 🤖 Like low-level engineering  
-`>` 👾 Self-hosting enthusiast  
-`>` 🧩 Minimal designer skills  
-`>` 🖥️ Web infrastructure  
-`>` 🚀 And more  
+<details>
+  <summary><strong>🧩</strong></summary>
+
+  - 🎸 Playing musical instruments
+  - 👨🏻‍💻 Learning DevOps and infrastructure tools
+  - 🤖 Interested in low-level engineering
+  - 👾 Self-hosting enthusiast
+  - 🧩 Minimal designer skills
+  - 🖥️ Web infrastructure
+  - 🚀 And more
+
+</details>
 
 ## 🎸🎧🎵📻
 
-<p align="left">
+<p align="center">
   <a href="https://listenbrainz.org/user/vlados14311/">
-    <img src="https://lastfm-github-profile.vercel.app/api?user=vlados14311&mode=recent&bg=181825&source=listenbrainz" alt="ListenBrainz Recent Track" height="116" />
+    <img height="116" src="https://lastfm-github-profile.vercel.app/api?user=vlados14311&mode=recent&bg=1e1e2e&source=listenbrainz" alt="ListenBrainz recently played track" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dkaot2tcd7djiepbwt3txjuljy&cover_image=true&theme=spotify-embed&show_offline=true&interchange=false&mode=dark" alt="spotify-github-profile" height="116" />
+    <img height="116" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dkaot2tcd7djiepbwt3txjuljy&cover_image=false&theme=spotify-embed&background_color=181825&border_radius=12&bar_color=cba6f7&bar_color_cover=false&show_offline=true&interchange=false&mode=dark" alt="Spotify listening status" />
   </a>
 </p>
 
-## 🔨 Tech & Playground
+## ⚙️💻🐳
 
-![JS](https://img.shields.io/badge/-JavaScript-111?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=flat-square&logo=html5)
-![Markdown](https://img.shields.io/badge/Markdown-111?style=flat-square&logo=markdown)
-
-![Linux](https://img.shields.io/badge/-Linux-111?style=flat-square&logo=Linux)
-![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git)
-![Bash](https://img.shields.io/badge/Bash-111?style=flat-square&logo=gnu-bash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql)
-
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-111?style=flat-square&logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-111?style=flat-square&logo=nginx&logoColor=009639)
-![Grafana](https://img.shields.io/badge/Grafana-111?style=flat-square&logo=grafana)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-313244?style=flat-square&logo=javascript&logoColor=f9e2af" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-313244?style=flat-square&logo=html5&logoColor=fab387" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Markdown-313244?style=flat-square&logo=markdown&logoColor=cba6f7" alt="Markdown" />
+  <br />
+  <img src="https://img.shields.io/badge/Linux-313244?style=flat-square&logo=linux&logoColor=f9e2af" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-313244?style=flat-square&logo=git&logoColor=f38ba8" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-313244?style=flat-square&logo=gnubash&logoColor=a6e3a1" alt="Bash" />
+  <img src="https://img.shields.io/badge/PostgreSQL-313244?style=flat-square&logo=postgresql&logoColor=89b4fa" alt="PostgreSQL" />
+  <br />
+  <img src="https://img.shields.io/badge/Kubernetes-313244?style=flat-square&logo=kubernetes&logoColor=b4befe" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-313244?style=flat-square&logo=docker&logoColor=89dceb" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-313244?style=flat-square&logo=nginx&logoColor=a6e3a1" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Grafana-313244?style=flat-square&logo=grafana&logoColor=fab387" alt="Grafana" />
+</p>
